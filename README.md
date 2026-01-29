@@ -23,3 +23,11 @@ It analyzes post-COVID capacity recovery using Available Seat Kilometers (ASK).
 ## About this Project
 This project demonstrates my ability to translate aviation data into
 actionable insights using Power BI dashboards.
+
+## Dashboard Preview
+<img width="1566" height="837" alt="image" src="https://github.com/user-attachments/assets/5529782b-85a9-493b-8a47-022fa93b8299" />
+
+<img width="1562" height="810" alt="image" src="https://github.com/user-attachments/assets/8b8b7a17-c162-409f-bc1d-48f9b33695ff" />
+
+
+
