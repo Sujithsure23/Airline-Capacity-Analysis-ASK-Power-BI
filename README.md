@@ -1,5 +1,5 @@
 # Airline Capacity Analysis – ASK (Power BI)
-
+> ⚠️ Note: The dataset used in this project is **anonymized and manipulated** for confidentiality purposes.
 This Power BI dashboard was developed as part of an airline Business Intelligence assessment.
 It analyzes post-COVID capacity recovery using Available Seat Kilometers (ASK).
 
